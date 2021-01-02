@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Open met Xed
+Comment=Bewerken met Xed
+Quote=double
+Exec=xed %F
+Selection = any
+Extensions=txt;;
+Icon-Name=document-open

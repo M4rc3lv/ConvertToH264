@@ -1,0 +1,13 @@
+[Nemo Action]
+Name=Convert naar h264
+Comment=Converteer x265 naar naar h264
+
+#Je moet zowel Quite=double als de \"'s gebruiken!
+Quote=double
+Exec=/home/marcel/convert264.sh %F
+
+Selection=s
+Extensions=mkv;m4v;mp4;
+Icon-Name=video-x-generic
+Terminal=true
+
