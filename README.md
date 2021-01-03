@@ -1,7 +1,7 @@
 # Nemo-actions
 - Nemo action om elk bestand in Xed te kunnen editen: `editbestand.nemo_action`.
 - Nemo action om een MKV naar H264 te converteren: `convert264.nemo_action`. Ik gebruik die om x265 naar h264 terug te zetten.
-- Nemo action om de namen van alle geselecteerde bestanden om te draaien (reverse filenames): `reversefilenames.nemo_action\.
+- Nemo action om de namen van alle geselecteerde bestanden om te draaien (reverse filenames): `reversefilenames.nemo_action`
 
 Plaats de .action-bestanden in `~/.local/share/nemo/actions` 
 
