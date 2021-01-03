@@ -1,0 +1,12 @@
+[Nemo Action]
+# Toont STL-bestanden in viewer
+# sudo apt install fstl
+Name=Toon STL-bestand
+Comment=Toon STL-bestand in viewer
+Exec=fstl %F
+Icon-Name=zoom-in
+Selection=s
+Extensions=stl;
+EscapeSpaces=true
+
+
