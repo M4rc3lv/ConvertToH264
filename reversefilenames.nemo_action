@@ -1,0 +1,15 @@
+[Nemo Action]
+# Actie die namen van alle geselecteerde bestanden omkeert
+Name=Bestandsnaam omkeren
+Comment=Namen van geselecteerde bestanden omkeren (reverse filenames)
+
+Exec=<scripts/reverse.sh %F>
+
+Icon-Name=format-text-direction-rtl
+Selection=notnone
+#Quote=double
+Extensions=nodirs;
+
+EscapeSpaces=true
+Terminal=true
+
