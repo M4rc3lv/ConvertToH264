@@ -3,6 +3,8 @@
 - Nemo action om een MKV naar H264 te converteren: `convert264.nemo_action`. Ik gebruik die om x265 naar h264 terug te zetten.
 - Nemo action om de namen van alle geselecteerde bestanden om te draaien (reverse filenames): `reversefilenames.nemo_action`
 
+<img src="https://marcelv.net/pix/Acties.png" />
+
 Plaats de .action-bestanden in `~/.local/share/nemo/actions` 
 
 Plaats de .sh-bestanden in `~/.local/share/nemo/actions/scripts` (dus als subfolder van de actions!)
