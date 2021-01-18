@@ -2,11 +2,12 @@
 Name=Convert naar h264
 Comment=Converteer x265 naar naar h264
 
-Quote=double
-Exec=<scripts/convert264.sh %F>
+Exec=<scripts/convert264 %F>
 
 Selection=s
 Extensions=mkv;m4v;mp4;
 Icon-Name=video-x-generic
+
+EscapeSpaces=true
 Terminal=true
 

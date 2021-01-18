@@ -3,7 +3,7 @@
 Name=Bestandsnaam omkeren
 Comment=Namen van geselecteerde bestanden omkeren (reverse filenames)
 
-Exec=<scripts/reverse.sh %F>
+Exec=<scripts/reversefilenames %F>
 
 Icon-Name=format-text-direction-rtl
 Selection=notnone
